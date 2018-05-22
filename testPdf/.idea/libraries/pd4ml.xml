@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="pd4ml">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/pd4ml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ss_css2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
